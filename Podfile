@@ -1,0 +1,11 @@
+platform:ios, '8.0'
+
+pod 'AFNetworking', '~> 2.6.3'
+pod 'TuSDK', '~> 2.3.2'
+pod 'MJRefresh', '~> 3.1.0'
+pod 'SDWebImage', '~> 3.7.5'
+pod 'SSZipArchive', '~> 1.1'
+pod 'Reachability', '~> 3.2'
+pod 'MJExtension', '~> 3.0.10'
+pod 'Masonry', '~> 1.0.0'
+pod 'SDCycleScrollView', '~> 1.62'
