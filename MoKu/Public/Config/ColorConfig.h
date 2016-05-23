@@ -9,7 +9,7 @@
 #ifndef ColorConfig_h
 #define ColorConfig_h
 
-/** 背景色 */
+// 背景色
 #define COLOR_1           ([UIColor colorWithHexString:@"EFEFEF"])
 //主色
 #define COLOR_2           ([UIColor colorWithHexString:@"FDD000"])
