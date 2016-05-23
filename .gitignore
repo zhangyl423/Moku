@@ -34,6 +34,8 @@ xcuserdata
 # https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
 #
 Pods/
+!Podfile
+!Podfile.lock
 
 # Carthage
 #
@@ -53,5 +55,8 @@ fastlane/report.xml
 fastlane/screenshots
 
 .DS_Store
-.idea/
-*.iml
+
+.zim/*.cache
+
+*.xcworkspace
+!default.xcworkspace
